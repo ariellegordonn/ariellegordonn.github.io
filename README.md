@@ -1,4 +1,5 @@
 # ariellegordonn.github.io
+{:height="20%" width="20%"}
 
 Intro 
 
