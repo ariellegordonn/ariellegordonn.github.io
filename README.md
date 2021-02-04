@@ -1,5 +1,6 @@
 # ariellegordonn.github.io
-{:height="20%" width="20%"}
+
+LinkedIn(https://www.linkedin.com/in/arielle-gordon-77939115a/)
 
 Intro 
 
