@@ -4,7 +4,6 @@ Hello, welcome to my page! My name is Arielle Gordon, and I am currently a senio
 
 ![Profile Picture](https://github.com/ariellegordonn/ariellegordonn.github.io/blob/main/arielle.JPG?raw=true)
 
-# Lehigh Undergraduate Enrollment Year 2020
 <iframe title="Lehigh Undergraduate Enrollment Year 2020" aria-label="chart" id="datawrapper-chart-bdthF" src="https://datawrapper.dwcdn.net/bdthF/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="585"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
