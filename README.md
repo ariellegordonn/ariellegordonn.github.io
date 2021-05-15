@@ -4,6 +4,10 @@ Hello, welcome to my page! My name is Arielle Gordon, and I am currently a senio
 
 ![Profile Picture](https://github.com/ariellegordonn/ariellegordonn.github.io/blob/main/arielle.JPG?raw=true)
 
+# Google 360
+
+<iframe width="100%" height="480px" src="https://poly.google.com/view/5R2IluULmRK/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
 # Data Wrapper
 
 <iframe title="Lehigh Enrollment" aria-label="chart" id="datawrapper-chart-bdthF" src="https://datawrapper.dwcdn.net/bdthF/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="585"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
